@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Methods
+title: Results
 ---
 
 # Coming soon!
 
-![Nice results image Image](assets/aice.jpg)
+![Nice results image](assets/aice.jpg)
