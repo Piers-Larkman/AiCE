@@ -5,4 +5,4 @@ title: About
 
 # Project info....
 
-![About Image](AiCE/assets/aice.jpg)
+![About Image](/assets/aice.jpg)
