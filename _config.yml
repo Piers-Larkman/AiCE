@@ -4,6 +4,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 header_pages:
-  - pages/about.md
-  - pages/results.md
-  - pages/contact.md
+  - about.md
+  - results.md
+  - contact.md
