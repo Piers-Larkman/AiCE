@@ -1,10 +1,10 @@
-title: "AiCE"
+/title: "AiCE"
 remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 header_pages:
   - home.md
-  - about.md
+  - pages/about.md
   - results.md
   - contact.md
