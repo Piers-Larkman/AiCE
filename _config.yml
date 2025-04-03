@@ -1,4 +1,4 @@
-/title: "AiCE"
+title: "AiCE"
 remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
