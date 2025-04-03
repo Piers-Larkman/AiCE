@@ -1,6 +1,14 @@
 ---
 layout: default
-title: Test
+title: Home
 ---
-# Welcome to test
-this is a test
+
+# AiCE Website test
+Add content 
+
+![Project Image](assets/aice.png)
+
+Learn more:
+- [About](about.html)
+- [Results](results.html)
+- [Contact](contact.html)
