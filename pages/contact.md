@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Methods
+title: Contact
 ---
 
 # Contact info....
