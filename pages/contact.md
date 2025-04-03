@@ -5,4 +5,4 @@ title: Contact
 
 # Contact info....
 
-![Some Image](assets/aice.jpg)
+![Some Image](/assets/aice.png)
