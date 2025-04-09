@@ -46,12 +46,11 @@ title: Contact
 <table>
   <tr>
     <td>
-      <img src="aice.png" width="300px" alt="Team Event 1" />
+      <img src="assets/aice.png" width="300px" alt="AiCE Logo" />
     </td>
     <td>
-      <img src="erc.png" width="300px" alt="Team Event 2" />
+      <img src="assets/erc.png" width="300px" alt="ERC Logo" />
     </td>
   </tr>
 </table>
 
-![AiCE Logo](/assets/aice.png)
