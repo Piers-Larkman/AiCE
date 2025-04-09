@@ -17,7 +17,9 @@ title: About
 ---
 
 ## AI Integration
-    
+<div align="center">
+  <p>
+
 Human observers have clear limitations in detecting all the important details in such complex visual datasets. This is why AiCE will add deep learning to deep ice: Artificial intelligence (Ai) image analysis will be established through a comprehensive understanding of the chemical image features and their connection to post-depositional processes. With this, we can address the fundamental climate questions through deciphering deep ice – in Antarctica and elsewhere. Ultimately, AiCE could revolutionize how we interpret the oldest paleoclimate signals in ice cores and other archives.
     
   </p>
