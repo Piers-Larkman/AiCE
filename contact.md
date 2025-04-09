@@ -46,10 +46,10 @@ title: Contact
 <table>
   <tr>
     <td>
-      <img src="assets/aice.png" width="300px" alt="AiCE Logo" />
+      <img src="assets/aice.png" width="400px" alt="AiCE Logo" />
     </td>
     <td>
-      <img src="assets/erc.png" width="300px" alt="ERC Logo" />
+      <img src="assets/erc.png" width="400px" alt="ERC Logo" />
     </td>
   </tr>
 </table>
