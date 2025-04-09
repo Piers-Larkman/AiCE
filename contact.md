@@ -16,16 +16,16 @@ title: Contact
       <strong> <a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/pascal-bohleber.html" target="_blank"> Pascal Bohleber </a>  </strong><br />
       Principal investigator <br />
     </td>
-    <td align="center" style="padding: 20px;">Rémi Dallmayr
+    <td align="center" style="padding: 20px;">
       <img src="assets/placeholder.png" width="300px" alt="Remi" style="border-radius: 50%;"/><br />
-      <strong> <a href="https://www.awi.de/en/about-us/organisation/staff/single-view/remi-dallmayr.html" target="_blank"> Pascal Bohleber </a>  </strong><br />
+      <strong> <a href="https://www.awi.de/en/about-us/organisation/staff/single-view/remi-dallmayr.html" target="_blank"> Rémi Dallmayr </a>  </strong><br />
       Postdoc<br />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
       <img src="assets/placeholder.png" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
-      <strong> <a href="https://www.awi.de/en/about-us/organisation/staff/single-view/piers-larkman.html" target="_blank"> Pascal Bohleber </a>  </strong><br />
+      <strong> <a href="https://www.awi.de/en/about-us/organisation/staff/single-view/piers-larkman.html" target="_blank"> Piers Larkman </a>  </strong><br />
       Postdoc<br />
     </td>
   </tr>
@@ -44,11 +44,11 @@ title: Contact
 <table>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/nico.png" width="300px" alt="Nico" style="border-radius: 50%;"/><br />
+      <img src="assets/nico.jpg" width="300px" alt="Nico" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/people/27488149" target="_blank"> Nicolas Stoll </a>  </strong><br />
       Ca' Foscari University of Venice <br />
     </td>
-    <td align="center" style="padding: 20px;">Rémi Dallmayr
+    <td align="center" style="padding: 20px;">
       <img src="assets/martin.png" width="300px" alt="Remi" style="border-radius: 50%;"/><br />
       <strong> Martin Šala </strong><br />
       National Institute of Chemistry, Ljubljana <br />
@@ -56,7 +56,7 @@ title: Contact
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/seba.png" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
+      <img src="assets/seba.jpg" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/persone/9588235" target="_blank"> Sebastiano Vascon </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
@@ -68,7 +68,7 @@ title: Contact
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/carlo.png" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
+      <img src="assets/carlo.jpg" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/people/5590288" target="_blank"> Carlo Barbante </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
