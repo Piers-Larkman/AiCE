@@ -3,12 +3,16 @@ layout: default
 title: Home
 ---
 
-# AiCE Website Demo
-A short intro text - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# AiCE Project Summary
+We are missing a central piece in the puzzle to understanding our Earth’s climate: Its dynamics fundamentally changed during the “Mid-Pleistocene Transition”, when some 1.2 million years ago the oscillation between warm periods and ice ages shifted its periodicity from 41 to 100 ka. A key set of information about this change was archived in the snow that fell at that time in Antarctica. At unique locations, that snow is still preserved today in the deepest ice layers– but does it still contain its original message?
 
-![Project Image](assets/aice.png)
-
-Learn more:
-- [About](about.html)
-- [Results](results.html)
-- [Contact](contact.html)
+<table>
+  <tr>
+    <td>
+      <img src="assets/aice.png" width="500px" alt="AiCE Logo" />
+    </td>
+    <td>
+      <img src="assets/erc.png" width="500px" alt="ERC Logo" />
+    </td>
+  </tr>
+</table>
