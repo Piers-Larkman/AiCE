@@ -12,7 +12,7 @@ title: Contact
 <table>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/placeholder.png" width="300px" alt="Pascal" style="border-radius: 50%;"/><br />
+      <img src="assets/pascal.png" width="300px" alt="Pascal" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/pascal-bohleber.html" target="_blank"> Pascal Bohleber </a>  </strong><br />
       Principal investigator <br />
     </td>
