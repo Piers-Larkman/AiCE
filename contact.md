@@ -62,7 +62,7 @@ title: Contact
     </td>
     <td align="center" style="padding: 20px;">
       <img src="assets/placeholder.png" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
-      <strong> <a href="https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=131432&pMode=E" target="_blank"> David Classes </a>  </strong><br />
+      <strong> <a href="https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=131432&pMode=E" target="_blank"> David Clases </a>  </strong><br />
       University of Graz<br />
     </td>
   </tr>
