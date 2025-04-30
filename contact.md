@@ -49,27 +49,35 @@ title: Contact
       Ca' Foscari University of Venice <br />
     </td>
     <td align="center" style="padding: 20px;">
-      <img src="assets/martin.png" width="300px" alt="Remi" style="border-radius: 50%;"/><br />
+      <img src="assets/martin.png" width="300px" alt="Martin" style="border-radius: 50%;"/><br />
       <strong> Martin Šala </strong><br />
       National Institute of Chemistry, Ljubljana <br />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/seba.jpg" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
+      <img src="assets/seba.jpg" width="300px" alt="Sebastiano" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/persone/9588235" target="_blank"> Sebastiano Vascon </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
     <td align="center" style="padding: 20px;">
-      <img src="assets/placeholder.png" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
+      <img src="assets/placeholder.png" width="300px" alt="David" style="border-radius: 50%;"/><br />
       <strong> <a href="https://online.uni-graz.at/kfu_online/wbForschungsportal.cbShowPortal?pPersonNr=131432&pMode=E" target="_blank"> David Clases </a>  </strong><br />
       University of Graz<br />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/carlo.jpg" width="300px" alt="Piers" style="border-radius: 50%;"/><br />
+      <img src="assets/carlo.jpg" width="300px" alt="Carlo" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/people/5590288" target="_blank"> Carlo Barbante </a>  </strong><br />
+      Ca' Foscari University of Venice<br />
+    </td>
+  </tr>
+    </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="assets/carlo.jpg" width="300px" alt="Hasan" style="border-radius: 50%;"/><br />
+      <strong> <a href="https://www.unive.it/data/people/29111809" target="_blank"> Hasan Latif </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
   </tr>
