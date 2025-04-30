@@ -72,11 +72,8 @@ title: Contact
       <strong> <a href="https://www.unive.it/data/people/5590288" target="_blank"> Carlo Barbante </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
-  </tr>
-    </tr>
-  <tr>
     <td align="center" style="padding: 20px;">
-      <img src="assets/carlo.jpg" width="300px" alt="Hasan" style="border-radius: 50%;"/><br />
+      <img src="assets/placeholder.png" width="300px" alt="Hasan" style="border-radius: 50%;"/><br />
       <strong> <a href="https://www.unive.it/data/people/29111809" target="_blank"> Hasan Latif </a>  </strong><br />
       Ca' Foscari University of Venice<br />
     </td>
