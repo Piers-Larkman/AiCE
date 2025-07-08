@@ -4,7 +4,9 @@ title: Results
 ---
 # Publications
 
-Pascal Bohleber, Kristina Mervič, Remi Dallmayr, Ciprian Stremtan, & Martin Šala (2025). **Argon versus helium as carrier gas for LA-ICP-MS impurity mapping on ice cores**. Talanta Open, 11, 100437. [doi.org/10.1016/j.talo.2025.100437](https://doi.org/10.1016/j.talo.2025.100437)
+Larkman, P., Vascon, S., Šala, M., Stoll, N., Barbante, C., & Bohleber, P. (2025). **Faster chemical mapping assisted by computer vision: insights from glass and ice core samples**. The Analyst. [https://doi.org/10.1039/d5an00325c](https://doi.org/10.1039/d5an00325c)
+
+Bohleber, P., Mervič, K., Dallmayr, R., Stremtan, C., & Šala, M. (2025). **Argon versus helium as carrier gas for LA-ICP-MS impurity mapping on ice cores**. Talanta Open, 11, 100437. [doi.org/10.1016/j.talo.2025.100437](https://doi.org/10.1016/j.talo.2025.100437)
 
 Larkman, P., Rhodes, R. H., Stoll, N., Barbante, C., & Bohleber, P. (2025). **What does the impurity variability at the microscale represent in ice cores? Insights from a conceptual approach**. The Cryosphere, 19(3), 1373–1390. [doi:10.5194/tc-19-1373-2025](https://doi:10.5194/tc-19-1373-2025)
 
