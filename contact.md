@@ -27,6 +27,14 @@ title: Contact
       Postdoc<br />
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="assets/placeholder.png" width="300px" alt="David" style="border-radius: 50%;"/><br />
+      <strong> <a href="https://www.awi.de/en/about-us/organisation/staff/single-view/ruben-rittberger.html" target="_blank"> Ruben Rittberger </a>  </strong><br />
+      University of Graz<br />
+    </td>
+  </tr>
+  
 </table>
 
 </div>
