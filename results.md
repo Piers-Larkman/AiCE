@@ -4,6 +4,10 @@ title: Results
 ---
 # Publications
 
+Lancaster, S. T., Irrgeher, J., Dallmayr, R., Conrad, E., Hörhold, M., Bohleber, P., Behrens, M., Camin, F., Žagar, K., Vreča, P., & Prohaska, T. (2025). **δ(18O/16O) Determinations in Water Using Inductively Coupled Plasma–Tandem Mass Spectrometry. Analytical Chemistry**. [https://doi.org/10.1021/acs.analchem.5c02607](https://doi.org/10.1021/acs.analchem.5c02607)
+
+Paton, L., Kiesel, S., Steinhoefel, G., Elinkmann, M., Moro, T. T., Gonzalez de Vega, R., Bohleber, P., & Clases, D. (2025). **Assessing the impact of common sample preparation strategies for single particle ICP-MS regarding recovery and size distribution of natural single particles**. Journal of Analytical Atomic Spectrometry. [https://doi.org/10.1039/d5ja00170f](https://doi.org/10.1039/d5ja00170f)
+
 Larkman, P., Vascon, S., Šala, M., Stoll, N., Barbante, C., & Bohleber, P. (2025). **Faster chemical mapping assisted by computer vision: insights from glass and ice core samples**. The Analyst. [https://doi.org/10.1039/d5an00325c](https://doi.org/10.1039/d5an00325c)
 
 Bohleber, P., Mervič, K., Dallmayr, R., Stremtan, C., & Šala, M. (2025). **Argon versus helium as carrier gas for LA-ICP-MS impurity mapping on ice cores**. Talanta Open, 11, 100437. [doi.org/10.1016/j.talo.2025.100437](https://doi.org/10.1016/j.talo.2025.100437)
