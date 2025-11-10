@@ -4,6 +4,8 @@ title: Results
 ---
 # Publications
 
+Bohleber, P., Stoll, N., Larkman, P., Rhodes, R. H., & Clases, D. (2025). **New evidence on the microstructural localization of sulfur, chlorine & sodium in polar ice cores with implications for impurity diffusion**. The Cryosphere, 19(11), 5485–5498. [doi.org/10.5194/tc-19-5485-2025 ](https://doi.org/10.5194/tc-19-5485-2025)
+
 Lancaster, S. T., Irrgeher, J., Dallmayr, R., Conrad, E., Hörhold, M., Bohleber, P., Behrens, M., Camin, F., Žagar, K., Vreča, P., & Prohaska, T. (2025). **δ(18O/16O) Determinations in Water Using Inductively Coupled Plasma–Tandem Mass Spectrometry. Analytical Chemistry**. [https://doi.org/10.1021/acs.analchem.5c02607](https://doi.org/10.1021/acs.analchem.5c02607)
 
 Paton, L., Kiesel, S., Steinhoefel, G., Elinkmann, M., Moro, T. T., Gonzalez de Vega, R., Bohleber, P., & Clases, D. (2025). **Assessing the impact of common sample preparation strategies for single particle ICP-MS regarding recovery and size distribution of natural single particles**. Journal of Analytical Atomic Spectrometry. [https://doi.org/10.1039/d5ja00170f](https://doi.org/10.1039/d5ja00170f)
@@ -13,8 +15,6 @@ Larkman, P., Vascon, S., Šala, M., Stoll, N., Barbante, C., & Bohleber, P. (202
 Bohleber, P., Mervič, K., Dallmayr, R., Stremtan, C., & Šala, M. (2025). **Argon versus helium as carrier gas for LA-ICP-MS impurity mapping on ice cores**. Talanta Open, 11, 100437. [doi.org/10.1016/j.talo.2025.100437](https://doi.org/10.1016/j.talo.2025.100437)
 
 Larkman, P., Rhodes, R. H., Stoll, N., Barbante, C., & Bohleber, P. (2025). **What does the impurity variability at the microscale represent in ice cores? Insights from a conceptual approach**. The Cryosphere, 19(3), 1373–1390. [doi:10.5194/tc-19-1373-2025](https://doi:10.5194/tc-19-1373-2025)
-
-Bohleber, P., Stoll, N., Larkman, P., Rhodes, R. H., & Clases, D. (2025). **New evidence on the microstructural localization of sulfur, chlorine & sodium in polar ice cores with implications for impurity diffusion**. EGUsphere Preprint, 2025, 1–20. [doi:10.5194/egusphere-2025-355](https://doi:10.5194/egusphere-2025-355)
 
 ---
 
@@ -26,7 +26,7 @@ Larkman, P., Šala, M., Stoll, N., Vascon, S., Bohleber, P. **Ai-assistance for 
 
 Larkman, P., Šala, M., Stoll, N., Vascon, S., Bohleber, P. **Effective data collection for large area mapping: insights from polar ice cores**. EWLA, Ghent, Belgium, 2-5 July 2024, [book of abstracts](https://ewla2024.ugent.be/sites/default/files/2024-06/EWLA2024_conference_book_of_abstracts.pdf)
 
-Bohleber, P., Larkman, P., Stoll, N., Clases, D., Gonzalez de Vega, R., Šala, M., Roman, M., and Barbante, C.: **Quantitative Insights on Impurities in Ice Cores at the Grain Scale**, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-11279, [doi.org/10.5194/egusphere-egu24-11279](https://doi.org/10.5194/egusphere-egu24-11279)
+Bohleber, P., Larkman, P., Stoll, N., Clases, D., Gonzalez de Vega, R., Šala, M., Roman, M., and Barbante, C. **Quantitative Insights on Impurities in Ice Cores at the Grain Scale**, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-11279, [doi.org/10.5194/egusphere-egu24-11279](https://doi.org/10.5194/egusphere-egu24-11279)
 
 ---
 
