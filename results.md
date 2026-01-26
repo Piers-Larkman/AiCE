@@ -4,7 +4,9 @@ title: Results
 ---
 # Publications
 
-Bohleber, P., Stoll, N., Larkman, P., Rhodes, R. H., & Clases, D. (2025). **New evidence on the microstructural localization of sulfur, chlorine & sodium in polar ice cores with implications for impurity diffusion**. The Cryosphere, 19(11), 5485–5498. [doi.org/10.5194/tc-19-5485-2025 ](https://doi.org/10.5194/tc-19-5485-2025)
+Stoll, N. A., Clases, D., Gonzalez de Vega, R., Elinkmann, M., Larkman, P. M., & Bohleber, P. (2026). **Single particle ICP-TOFMS on previously characterised EGRIP ice core samples: new approaches, limitations, and challenges.** The Cryosphere, 20(1), 663–682. [doi.org/10.5194/tc-20-663-2026](https://doi.org/10.5194/tc-20-663-2026)
+
+Bohleber, P., Stoll, N., Larkman, P., Rhodes, R. H., & Clases, D. (2025). **New evidence on the microstructural localization of sulfur, chlorine & sodium in polar ice cores with implications for impurity diffusion**. The Cryosphere, 19(11), 5485–5498. [doi.org/10.5194/tc-19-5485-2025](https://doi.org/10.5194/tc-19-5485-2025)
 
 Lancaster, S. T., Irrgeher, J., Dallmayr, R., Conrad, E., Hörhold, M., Bohleber, P., Behrens, M., Camin, F., Žagar, K., Vreča, P., & Prohaska, T. (2025). **δ(18O/16O) Determinations in Water Using Inductively Coupled Plasma–Tandem Mass Spectrometry. Analytical Chemistry**. [https://doi.org/10.1021/acs.analchem.5c02607](https://doi.org/10.1021/acs.analchem.5c02607)
 
